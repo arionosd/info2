@@ -1,2 +1,2 @@
-# info2
-Informatik 2 Repo for Algorithms &amp; Data Structures @WWU
+# Info2
+Informatik 2 Repository for Algorithms &amp; Data Structures @WWU.

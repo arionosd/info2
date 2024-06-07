@@ -1,3 +1,5 @@
+package Blatt7_1006;
+
 /**
  * Klasse zur Bereitstellung einer Methode <code>find</code>,
  * die fuer ein aufsteigend sortiertes Feld von paarweise verschiedenen
